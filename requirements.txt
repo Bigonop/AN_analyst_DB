@@ -1,4 +1,6 @@
-streamlit
 pandas
-sqlalchemy  
 psycopg2-binary
+sqlalchemy
+streamlit
+plotly
+streamlit-aggrid 
