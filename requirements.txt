@@ -4,3 +4,4 @@ sqlalchemy
 streamlit
 plotly
 streamlit-aggrid 
+streamlit-autorefresh 
